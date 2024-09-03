@@ -74,10 +74,10 @@ const title = 'Designing the future of education';
 const description =
   'I worked as the design lead on a major iteration of Smart Sparrow’s product. We took the platform in a bold new direction, focusing on becoming the best tool for learning designers.';
 const roles = [
-  'Art Direction',
+  'AI Engineering',
   'UX and UI Design',
   'Front End Development',
-  'Motion Design',
+  'E2e Testing',
 ];
 
 export const meta = () => {
